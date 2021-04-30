@@ -254,7 +254,9 @@ knitr::include_graphics(rep('imagens/02-formacao/reducaoprofundidade.png'))
 
 A topologia digital da imagem desempenha muita importância na especificação, localização e relação entre as coordenadas da imagem, facilitando sua manipulação. A topologia de uma imagem digital contém as seguintes propriedades dos pixels: Vizinhança ( 4, D e 8 ), Conectividade, Adjacência, Caminho, Componente Conexa, Medidas de Distância, Operações Lógico-aritméticas.
 
-Para especificar,  localizar, e relacionar topologicamente uma imagem digitalizada, consideramos: p,q denotando os pontos e, $p(x,y)$, $q(x,y)$, $u(x,y)$ coordenadas dos pontos denotados, expressaremos $V$ Conjunto de valores em uma imagem binária $V=\{0,1\}$.
+Uma imagem digitalizada contém as seguintes propriedades de seus pixels: Vizinhança ( 4, D e 8 ), Conectividade, Adjacência, Caminho, Componente Conexa, Medidas de Distância, Operações Lógico-aritméticas.
+
+Para especificar, localizar, e relacionar topologicamente à imagem, consideramos: p,q denotando os pontos e, $p(x,y)$, $q(x,y)$, $u(x,y)$ coordenadas dos pontos denotados, expressaremos $V$ Conjunto de valores em uma imagem binária $V=\{0,1\}$.
 
 ### Vizinhança
 
